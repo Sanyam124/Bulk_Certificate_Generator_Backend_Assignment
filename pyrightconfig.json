@@ -1,0 +1,10 @@
+{
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Windows",
+  "venvPath": ".",
+  "extraPaths": [
+    "C:/Users/sanya/AppData/Local/Programs/Python/Python311/Lib/site-packages"
+  ],
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none"
+}
